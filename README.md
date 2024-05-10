@@ -4,23 +4,27 @@
 
 🌱 Comecei a estudar programação aos 14 anos de idade por curiosidade sobre tecnologia, o que me levou a aprender HTML, CSS e outras linguagens. Em 2017, iniciei minha jornada na Universidade Federal de Goiás (UFG), desenvolvendo pesquisas estatísticas na iniciação científica, utilizando algoritmos genéticos e aprendendo lógica de programação. Foi nesse período que me apaixonei pelo mundo da tecnologia. Sou formada em Engenharia Civil e tenho Mestrado em estruturas pela UFG.
 
-🔧 Habilidades técnicas:.
+🔧 Habilidades técnicas:
 
-* Autocad - Avançado;
-* Revit - Avançado;
-* TQS - Avançado;
-* Pacote Office - Avançado;
-* Excel/Macro - Avançado;
-* Matlab - Avançado;
-* Visual Basic - Avançado;
-* Power BI - Avançado;
-* Power Query - Avançado;
-* Python - Avançado;
-* SQL - Intermediário;
-* Economatica - Avançado;
-* Bloomberg - Avançado;
-* HTML e CSS - Avançado;
-* Maple - Avançado.
+* Autocad;
+* Revit;
+* TQS;
+* Pacote Office;
+* Excel/Macro;
+* Matlab;
+* Visual Basic;
+* Power BI;
+* Power Query;
+* Python;
+* SQL;
+* Databricks;
+* Azure;
+* Git;
+* Java;
+* Economatica;
+* Bloomberg;
+* HTML e CSS;
+* Maple.
 
 📫 Como me encontrar:
 * LinkedIn: https://www.linkedin.com/in/rafaela-bernardes-6a427aa5/
